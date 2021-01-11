@@ -1,0 +1,18 @@
+{
+  "name": "keksobooking",
+  "version": "19.0.0",
+  "private": true,
+  "description": "Личный проект «Кексобукинг» от HTML Academy",
+  "devDependencies": {
+    "eslint": "7.1.0",
+    "eslint-config-htmlacademy": "0.6.0"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "8.11"
+  }
+}
