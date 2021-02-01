@@ -6,3 +6,6 @@ env:
 
 extends:
   "htmlacademy/es5.5"
+
+parser:
+  "babel-eslint"
